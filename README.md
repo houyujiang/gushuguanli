@@ -1,23 +1,3 @@
-# SpringBoot知识体系+Vue3 实战WIKI知识库系统
-
-## 相关软件已传到QQ群文件中
-* jdk-8u221-windows-x64.exe<br>
-* ideaIU-2019.2.3.exe<br>
-* Git-2.23.0-64-bit.exe<br>
-* mysql-installer-community-5.7.27.0.msi<br>
-* jdk-8u261-linux-x64.tar.gz<br>
-
-## 源码下载
-* 关于慕课网GIT说明：https://www.imooc.com/help/detail/111
-
-* 使用下面的命令将源码从远程仓库拉取到本地，需要本地提前安装好git
-```
-git clone https://git.imooc.com/coding-474/jiawawiki.git
-会配置ssh的，可以用ssh:
-git clone ssh://git@git.imooc.com:80/coding-474/jiawawiki.git
-```
-* 数据库初始化脚本已传到QQ群中
-
 
 ## 项目初始化
 * 需要本地安装好idea, nodejs，jdk1.8, mysql8.0/5.7, navicat（数据库可视化工具）
